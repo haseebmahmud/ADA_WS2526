@@ -1,0 +1,653 @@
+---
+title: "ProSeminar: Academic Writing"
+date: "Last compiled on `r format(Sys.time(), '%d %B, %Y')`"
+output:
+  rmdformats::readthedown:
+    self_contained: true
+    thumbnails: false
+    lightbox: true
+    gallery: false
+    toc_depth: 3
+    toc_collapsed: false
+    highlight: pygments
+---
+
+# Introduction: Writing a paper
+
+## The purpose of academic writing
+
+Writers should be clear why they are writing. The most common reasons for writing include:
+
+-   to report on a piece of research the writer has conducted
+
+-   to answer a question the writer has been given or chosen
+
+-   to discuss a subject of common interest and give the writer's view
+
+-   to synthesize research done by others on a topic, etc.
+
+## Types of journal articles
+
+It is helpful to familiarize yourself with the different types of articles published by journals. Although it may appear there are a large number of types of articles published due to the wide variety of names they are published under, most articles published are one of the following types,
+
+**Original Research**
+
+This is the most common type of journal manuscript used to publish full reports of data from research. It may be called an *Original Article, Research Article, Research,* or just *Article,* depending on the journal. The Original Research format is suitable for many different fields and different types of studies. It includes full Introduction, Methods, Results, and Discussion sections.
+
+**Short reports or Letters**
+
+These papers communicate brief reports of data from original research that editors believe will be interesting to many researchers, and that will likely stimulate further research in the field. As they are relatively short the format is useful for scientists with results that are time sensitive (for example, those in highly competitive or quickly-changing disciplines). This format often has strict length limits, so some experimental details may not be published until the authors write a full *Original Research* manuscript. These papers are also sometimes called *Brief communications*.
+
+**Review Articles**
+
+Review Articles provide a comprehensive summary of research on a certain topic, and a perspective on the state of the field and where it is heading. They are often written by leaders in a particular discipline after invitation from the editors of a journal. Reviews are often widely read (for example, by researchers looking for a full introduction to a field) and highly cited. Reviews commonly cite approximately 100 primary research articles.
+
+**Case Studies**
+
+These articles report specific instances of interesting phenomena. A goal of Case Studies is to make other researchers aware of the possibility that a specific phenomenon might occur. This type of study is often used in medicine to report the occurrence of previously unknown or emerging pathologies.
+
+**Methodologies or Methods**
+
+These articles present a new experimental method, test or procedure. The method described may either be completely new, or may offer a better version of an existing method. The article should describe a demonstrable advance on what is currently available.
+
+Source: [Springer](https://www.springer.com/gp/authors-editors/authorandreviewertutorials/writing-a-journal-manuscript/types-of-journal-articles/10285504)
+
+## Typical structure of a research paper
+
+1.  Introduction
+
+    -   State why the problem you address is important
+
+    -   State what is lacking in the current knowledge
+
+    -   State the objectives of your study or the research question
+
+    -   Literature review, current state of affairs
+
+2.  Methods
+
+    -   Describe the context and setting of the study
+
+    -   Specify the study design
+
+    -   Describe the sample/population (patients, doctors, hospitals, etc.)
+
+    -   Describe the sampling strategy
+
+    -   Describe the intervention (if applicable)
+
+    -   Identify the main study variables
+
+    -   Describe data collection instruments and procedures
+
+    -   Outline analysis methods
+
+3.  Results
+
+    -   Report on data collection and recruitment (response rates, etc.)
+
+    -   Describe participants (demographic, clinical condition, etc.)
+
+    -   Present key findings with respect to the central research question
+
+    -   Present secondary findings (secondary outcomes, subgroup analyses, etc.)
+
+4.  Discussion
+
+    -   State the main findings of the study
+
+    -   Discuss the main results with reference to previous research
+
+    -   Discuss policy and practice implications of the results
+
+    -   Analyse the strengths and limitations of the study
+
+    -   Offer perspectives for future work
+
+Slightly modified from [Source]
+
+## Common mistakes
+
+-   The research question is not specified
+
+-   The stated aim of the paper is tautological (e.g. 'The aim of this paper is to describe what we did') or vague (e.g. 'We explored issues related to X')
+
+-   The structure of the paper is chaotic (e.g. methods are described in the Results section)
+
+-   The manuscripts does not follow the instructions for authors
+
+-   The paper much exceeds the maximum number of words allowed
+
+-   The Introduction is an extensive review of the literature Methods, interventions and instruments are not described in sufficient detail
+
+-   Results are reported selectively and/or not following the status quo (e.g. percentages without frequencies, p-values without measures of effect)
+
+-   The same results appear both in a table and in the text
+
+-   Detailed tables are provided for results that do not relate to the main research question
+
+-   In the Introduction and Discussion, key arguments are not backed up by appropriate references
+
+-   References are out of date or cannot be accessed by most readers
+
+-   The Discussion does not provide an answer to the research question
+
+-   The Discussion overstates the implications of the results and does not acknowledge the limitations of the study
+
+-   The paper is written in poor English/Deutsch
+
+Slightly modified from [Source]
+
+# The writing process
+
+## Be original, avoid plagiarism
+
+Basically, plagiarism means taking ideas or words from a source (e.g. a book or journal) without giving credit (acknowledgement) to the author. It is seen as a kind of theft, and is considered to be an academic crime. In academic work, ideas and words are seen as private property belonging to the person who first thought or wrote them. Therefore, it is important for all students to understand the meaning of plagiarism and learn how to prevent it in their work.
+
+![Don't be like this guy. [Source: Vice.com]](Images/guttenberg.jpeg)
+
+Third party contributions must be attached with both in-text citation and with the full reference, either on the footnote or in the reference section at the end of the paper. The placement of the citation depends on the citation style.
+
+**Summary and citation**
+
+> Smith (2009) claims that the modern state wields power in new ways.
+
+**Quotation and citation**
+
+> According to Smith: 'The point is not that the state is in retreat but that it is developing new\
+> forms of power . . .' (Smith, 2009: 103).
+
+Possible actions to avoid plagiarism
+
+-   Paraphrasing
+
+    **Example**
+
+    > Allen (2009) argues that the best explanation for the British location of the Industrial Revolution is found by studying demand factors. By the early eighteenth century high wages and cheap energy were both features of the British economy.
+    >
+    > Consequently, the mechanisation of industry through such inventions as the steam engine and mechanical spinning was profitable because employers were able to economise on labour by spending on coal. At that time, no other country had this particular combination of expensive labour and abundant fuel.
+
+    **Techniques for paraphrasing**
+
+    -   Changing vocabulary by using synonyms:
+
+        *argues \> claims/eighteenth century \> 1700s/wages \> labour costs/economise \> saving*
+
+    -   Changing word class:\
+        *explanation (n.) \> explain (v.)/mechanical (adj.) \> mechanise (v.)/profitable (adj.) \> profitability (n.)*
+
+    -   Changing word order:\
+        *. . . the best explanation for the British location of the Industrial Revolution is found by studying demand factors. \> A focus on demand may help explain the UK origin of the Industrial Revolution.*
+
+-   Summarizing
+
+**Example**
+
+Consider the following original text.
+
+> **RAILWAY MANIAS**
+>
+> In 1830 there were a few dozen miles of railways in all the world -- chiefly consisting of the line from Liverpool to Manchester. By 1840 there were over 4,500 miles, by 1850 over 23,500. Most of them were projected in a few bursts of speculative frenzy known as the 'railway manias' of 1835--1837 and especially in 1844--1847; most of them were built in large part with British capital, British iron, machines and knowhow. These investment booms appear irrational, because in fact few railways were much more profitable to the investor than other forms of enterprise, most yielded quite modest profits and many none at all: in 1855 the average interest on capital sunk in the British railways was a mere 3.7 per cent.
+>
+> (From The Age of Revolution by Eric Hobsbawm, 1995, p. 45)
+
+Now read the following paragraphs based on the original text. Which ones are ok and which one not?
+
+**Option 1**
+
+> Between 1830 and 1850 there was very rapid development in railway construction world wide. Two periods of especially feverish growth were 1835--1837 and 1844--1847. It is hard to understand the reason for this intense activity, since railways were not particularly profitable investments and some produced no return at all (Hobsbawm, 1995: 45).
+
+**Option 2**
+
+> There were only a few dozen miles of railways in 1830, including the Liverpool to Manchester line. But by 1840 there were over 4,500 miles and over 23,500 by 1850. Most of them were built in large part with British capital, British iron, machines and know-how, and most of them were projected in a few bursts of speculative frenzy known as the 'railway manias' of 1835--1837 and especially in 1844--1847. Because most yielded quite modest profits and many none at all these investment booms appear irrational. In fact few railways were much more profitable to the investor than other forms of enterprise (Hobsbawm, 1995: 45).
+
+**Option 3**
+
+> As Hobsbawm (1995) argues, nineteenth century railway mania was partly irrational: 'because in fact few railways were much more profitable to the investor than other forms of enterprise, most yielded quite modest profits and many none at all: in 1855 the average interest on capital sunk in the British railways was a mere 3.7 per cent' (Hobsbawm, 1995: 45).
+
+**Option 4**
+
+> Globally, railway networks increased dramatically from 1830 to 1850; the majority in short periods of 'mania' (1835--1837 and 1844--1847). British technology and capital were responsible for much of this growth, yet the returns on the investment were hardly any better than comparable business opportunities (Hobsbawm, 1895:45).
+
+**Option 5**
+
+> The dramatic growth of railways between 1830 and 1850 was largely achieved using British technology. However, it has been claimed that much of this development was irrational because few railways were much more profitable to the investor than other forms of enterprise; most yielded quite modest profits and many none at all.
+
+## Literature review
+
+### Steps in Literature review
+
+[![Literature review process. Source: Riedly (2018)](Images/lit_review_process.png)](https://www.amazon.co.uk/Literature-Review-Step-step-Students/dp/1412934265)
+
+### Summarizing findings
+
+We can start collecting and summarizing the literature in excel spreadsheets.
+
+[![Example: Summarized literature. Source: Charmarbagwala (2004)](Images/literature_review_list.png)](https://openknowledge.worldbank.org/handle/10986/20224)
+
+Summary findings can be organized in the spreadsheet too.
+
+[![Example: Summarized literature. Source: Charmarbagwala (2004)](Images/literature_review_findings.png)](https://openknowledge.worldbank.org/handle/10986/20224)
+
+Another approach could be using [mindmap](https://www.google.com/search?q=mindmap&newwindow=1&sxsrf=AOaemvIoVQqJYRE2wdmDFQkpsamskwwelA:1632123735585&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiDofTbho3zAhVXFlkFHXsdBj4Q_AUoAXoECAEQAw&biw=1745&bih=881&dpr=1.1) like softwares.
+
+![](Images/Unbenannt.PNG)
+
+### Develop a critical approach
+
+It is very common to see students writing literature review describing only one side of the story. There are few possibilities in scientific research works on a certain phenomena.
+
+-   The phenomenon is known deterministically. There is no need for a second opinion. Example: what is the height of the Eifle Tower.
+
+-   The phenomenon is known through estimations.
+
+**Example 1**: Let's assume we want to review the research findings on the average female height in Germany. One cannot have a single answer for this because of
+
+-   different sample size
+
+-   different sampling techniques
+
+-   different measurement methods/methodology
+
+-   measurement errors
+
+-   difference in operational definitions etc.
+
+**Example 2**: Let's assume we want to know the factors behind a successful job application. We cannot have a single line answer to this question too because of,
+
+-   different sample size and sampling strategy
+
+-   different hypotheses/variables taken into consideration
+
+-   different sample characteristics
+
+-   difference in operation definitions etc.
+
+### **Beware of confirmation bias**
+
+> **Confirmation bias** is the tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior [beliefs](https://en.wikipedia.org/wiki/Belief "Belief") or values. People display this bias when they select information that supports their views, ignoring contrary information, or when they interpret ambiguous evidence as supporting their existing attitudes. The effect is strongest for desired outcomes, for [emotionally](https://en.wikipedia.org/wiki/Emotion "Emotion") charged issues, and for deeply entrenched beliefs. Confirmation bias cannot be eliminated entirely, but it can be managed, for example, by education and training in critical thinking skills. Source: Wikipedia
+
+It is not OK to cite only the side of the story that is in line with the authors findings.
+
+### **A big list of cognitive biases**
+
+Confirmation bias is a type of cognitive bias. In addition, there are plenty of biases one may fall victim of, in conscious or in unconscious mind. To go through a helpful list of biases, the reader may right click on the following image and open it into a new window.
+
+[![Cognitive biases. Source: Wikimedia. Right click and open it in a different window for better visibility.](Images/Cognitive_bias_codex_en.svg)](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
+### **Gettier problem**
+
+Knowledge is the justified true belief. It can be formulated as this,
+
+S knows that P, iff
+
+-   P is true
+
+-   S believes that P, and
+
+-   S is justified in believing that P.
+
+[Gettier](https://academic.oup.com/analysis/article-abstract/23/6/121/109949?redirectedFrom=fulltext) argued that that there are cases where individuals can have a justified, true belief regarding a claim but still fail to know it because the reasons for the belief, while justified, turn out to be false.
+
+<https://plato.stanford.edu/entries/knowledge-analysis/#GettProb>
+
+[![Error types. Source: XKCD](Images/error_types.png)](https://www.explainxkcd.com/wiki/index.php/2303:_Error_Types)
+
+Practical tips
+
+# Reference and quotations
+
+Academic work depends on the research and ideas of others, so it is vital to show which sources you have used in your work, in an acceptable manner. This unit explains:
+
+-   the format of in-text citation
+
+-   the main reference systems
+
+-   the use of quotations
+
+-   the layout of lists of references
+
+### Citations and references
+
+It is important to refer correctly to the work of other writers that you have used. You may present these sources as a summary/paraphrase, as a quotation, or use both. In each case, a citation is included to provide a link to the list of references at the end of your paper:
+
+> Smith (2009) argues that the popularity of the Sports Utility Vehicle (SUV) is irrational, as despite their high cost most are never driven off-road. In his view, 'they are bad for road safety, the environment and road congestion' (Smith, 2009: 37).
+
+> **References**\
+> Smith, M. (2009) *Power and the State*. Basingstoke: Palgrave Macmillan.
+
+**Reference systems**
+
+There are several main systems of referencing employed in the academic world, each used by different subjects. Your teachers will normally give you guidelines, or you may find these on the library website. With any system, the most important point is to be consistent (i.e. to use the same font size, punctuation, etc. throughout). These are the principal systems:
+
+-   [The Harvard system](https://www.mendeley.com/guides/harvard-citation-guide), generally used for the social sciences and business, illustrated in the previous subsection.
+
+-   [APA referencing system](https://www.mendeley.com/guides/apa-citation-guide), one of the most widely popular referencing system
+
+-   [MLA referencing system](https://www.mendeley.com/guides/mla-citation-guide).
+
+Do not ignore these links.
+
+**Referencing tools**
+
+Typically word processing software like MS Word includes referencing tools. A short tutorial can be found [here](https://www.youtube.com/watch?v=W_kuvEtqxwU).
+
+However, the default referencing tools included in the standard word processing softwares are not good enough for professional grade work. Third party software should be used to enhance the quality of the workflow. Here is a list of popular reference management softwares,
+
+-   [EndNote](https://endnote.com/): can be downloaded from the Download server.
+
+-   [Mendeley](https://www.mendeley.com/download-desktop-new/)
+
+-   [Zotero](https://www.zotero.org/)
+
+-   [Citavi](https://www.citavi.com/en)
+
+Have a look on these softwares and select the one you like.
+
+**Sources**
+
+-   Google of course
+
+-   [Researchgate.net](https://www.researchgate.net/)
+
+-   Academia.edu
+
+-   Google scholar
+
+-   Individual journal sites (e.g. Elsevier, SAGE, Taylor and Francis etc.)
+
+# Forming arguments and discussion
+
+## Operational definition
+
+## Language
+
+In discussion, avoid personal phrases such as *in my opinion* or *personally, I think . . .* . Use impersonal phrases instead, such as:
+
++-------------------------------+-----------------------------------------------------+
+| **Part 1**                    | Part 2                                              |
++===============================+=====================================================+
+| It is generally accepted that | working from home saves commuting time              |
++-------------------------------+-----------------------------------------------------+
+| It is widely agreed that      | email and the Internet reduce reliance on an office |
++-------------------------------+-----------------------------------------------------+
+| Most people                   | appear to need face-to-face contact with colleagues |
++-------------------------------+-----------------------------------------------------+
+| It is possible that           | more companies will encourage working from home     |
++-------------------------------+-----------------------------------------------------+
+| The evidence suggests that    | certain people are better at self-management        |
++-------------------------------+-----------------------------------------------------+
+
+## Counterarguments
+
+Counterarguments are ideas that are opposite to your ideas. In an academic discussion, you must show that you are familiar with both sides of the argument, and provide reasons to support your position. It is usual to deal with the counterarguments first, before giving your view.
+
+## Cohesion
+
+Cohesion concerns the flow of sentences and paragraphs from one to another. Sentence structure, writing style, formatting, referencing -- everything should be uniform in the paper/presentation.
+
+# Writing style
+
+## Abstracts: Keep it short and simple
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| No!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Yes                                                                                                                                                                                                                                                                                                                                                                                                          |
++=================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+==============================================================================================================================================================================================================================================================================================================================================================================================================+
+| Worldwide there are millions of daily smokers who consume trillions of cigarettes. This determines that cigarette butts are one of the most common types of litter in the world, present in any environment, from the sea to the mountains and from the countryside to the city. These, due to the materials and toxic substances that they contain, are waste with a very high damaging potential for the environment and for living organisms. The solutions applied to try to combat it are still few and scarcely sustainable and, therefore, alternative solutions to landfilling or incineration practices are necessary. | Trillions of cigarettes are smoked daily, making cigarette butts one of the most common types of litter in the world. Due to the materials and toxic substances that they contain, this waste has a very harmful risk for the environment and for living organisms. A few barely sustainable solutions have tried to combat this waste and alternative solutions to landfilling or incineration are needed.\ |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Actually some do this,
+
+![](Images/Screenshot_20210909_104810.jpg){width="400"}
+
+Don't do this!
+
+## Use of tenses
+
+Use the past to describe what you did, but use the present to describe any protocols/regulations/typical steps.
+
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| No                                                                                                                                                                                                                                                                                                                               | Yes!                                                                                                                                                                                                                                                                                                                                          |
++==================================================================================================================================================================================================================================================================================================================================+===============================================================================================================================================================================================================================================================================================================================================+
+| We use the Dictator Game to study our subjects' behavior towards others. In the dictator game, each subject is randomly matched with another subject and is given a certain amount of money. In our study, the subject is asked to allocate the money to ... The money given to each recipient is then multiplied by a factor R. | We *used* the Dictator Game to study our subjects' behavior towards others. In the dictator game, each subject *is randomly matched* with another subject and *is given* a certain amount of money. In our study, the subject *was* asked to allocate the money to ... The money given to each recipient *was* then multiplied by a factor R. |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Generally speaking, use past tense to report your results.
+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| No                                                                                                                                                                                                                                                                                                      | Yes!                                                                                                                                                                                                                                                                                                        |
++=========================================================================================================================================================================================================================================================================================================+=============================================================================================================================================================================================================================================================================================================+
+| RESULTS: As a result of an extensive search for AP2-domain containing proteins, 149 distinct AP2/ERF putative TFs have been identified.                                                                                                                                                                 | RESULTS: We conducted an extensive search for AP2-domain containing proteins, and identified 149 distinct AP2/ERF putative TFs.                                                                                                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| The group contained 20 separate genes, which could be identified due to the ...                                                                                                                                                                                                                         | The group contained 20 separate genes, which we were able to identify due to ...                                                                                                                                                                                                                            |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| The microscopy results confirm that the surface is composed of a copper substrate coated with a layer of hard chromium. In fact, copper is commonly used for substrates. The coating has many micro cracks. Samples B1, C1, D1 do not present any microstructural differences between core and surface. | Our microscopy results confirmed that the surface was composed of a copper substrate coated with a layer of hard chromium. In fact, copper is commonly used for substrates. The coating had many micro cracks. Samples B1, C1, D1 did not present any microstructural differences between core and surface. |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## The language of discussion
+
+In discussion, avoid personal phrases such as *in my opinion* or *personally, I think* . . .
+
+Use impersonal phrases instead, such as:
+
+-   It is generally accepted that working from home saves commuting time
+
+-   It is widely agreed that email and the Internet reduce reliance on an office
+
+-   Most people appear to need face-to-face contact with colleagues
+
+-   It is probable that more companies will encourage working from home
+
+-   The evidence suggests that certain people are better at self-management
+
+These phrases suggest a minority viewpoint:
+
+-   It can be argued that home-working encourages time-wasting
+
+-   One view is that home-workers become isolated
+
+When you are supporting your opinions with sources, use phrases such as:
+
+-   According to Emerson (2003) few companies have developed clear policies
+
+-   Poledna (2007) claims that most employees benefit from flexible arrangements
+
+## Reference words
+
+These are used to avoid repetition:
+
+> **Leonardo da Vinci** (1452--1519) was a fifteenth-century Italian genius who produced only a handful of **finished artworks**. However, **they** include **Mona Lisa** and The Last Supper, **the former** perhaps the most famous painting in the world. Although he is remembered mainly as an artist, **he** was also an innovative engineer, scientist and anatomist. **His** designs include tanks and flying machines, and although few of **these** were built in his lifetime, **he** is still remembered as the man who saw their possibility.
+
+However, in complicated cases, you may repeat. For example,
+
+> Pablo Picasso moved to Paris in 1904 and worked with George Braque from 1908 to 1909. He became interested in the analysis of form, which led to cubism.
+
+Here, it is not clear which person (Picasso or Braque) 'he' refers to. So, to avoid this, write:
+
+> Pablo Picasso moved to Paris in 1904 and worked with George Braque from 1908 to 1909. Picasso became interested in the analysis of form, which led to cubism. 
+
+## Generalizations
+
+Generalisations are often used to give a simple introduction to a topic. Compare:
+
+> The majority of smokers in Britain are women.
+
+with
+
+> Of all UK smokers, 56.2 per cent are women and 43.8 per cent are men.
+
+Although the second sentence is more accurate, the first is easier to understand and remember. The writer must decide when accuracy is necessary, and when a generalization will be acceptable. To make generalization acceptable, one should think of citing reliable source(s). For example,
+
+> One study (Anderson 2004) found that, the majority of smokers in Britain are women.
+
+We should be extra careful while writing topics like gender, race or anything controvertial.
+
+## Active and passive
+
+The passive is used when the writer wants to focus on the result, not on the cause:
+
+> The college was founded in 1925 by Walter Trimble. (passive)
+
+> Walter Trimble founded the college in 1925. (active)
+
+In the first sentence, the emphasis is on the college, in the second on Trimble. So the passive is often used in written English when the cause (a person or thing) is less important or unknown.
+
+> Aluminium was first produced in the nineteenth century. (by someone)
+
+> The colony was abandoned in the 1630s. (due to something)
+
+> The cause of the action can be shown by adding 'by . . .':
+
+> The city was flooded by a severe hurricane.
+
+The passive is also used in written work to provide a more impersonal style:
+
+> The findings were evaluated. (not '*I evaluated the findings*')
+
+## Tables and Figures
+
+The position of the tables and figures should be at the top or at the bottom of the page.
+
+Tables and figures should be numbered properly and in case of a big dissertation/thesis, include a table of figures and tables after the table of contents.
+
+Captions should follow the standard formatting guidelines. By reading captions, the reader should understand fully what is it about.
+
+## Style
+
+Here is an example for a non-so-academic paragraph. Read carefully.
+
+> [How to make people work harder]{.ul} is a topic that lots of people have written about [in the last few years.]{.ul} There are [lots of different theories etc]{.ul} and [I think]{.ul} [some of them are ok.]{.ul} When we think about this we should remember the old Chinese proverb, that [you can]{.ul} lead a horse to water but [you can't]{.ul} make it drink. So how do we increase production? It's quite a complex subject but [I'll just talk about a couple of ideas]{.ul}.
+
+Rewrite it!
+
+### Some important guidelines
+
+-   Do not use idiomatic or colloquial vocabulary: *kids*, *boss*. Instead use standard English: *children*, *manager*.
+
+-   Use vocabulary accurately. There is a difference between *rule* and *law*, or *weather* and *climate*, which you are expected to know if you study these subjects.
+
+-   Be as precise as possible when dealing with facts or figures. Avoid phrases such as *about a hundred* or *hundreds of years ago*. If it is necessary to estimate numbers, use *approximately* rather than *about*.
+
+-   Conclusions should use tentative language. Avoid absolute/strong statements such as *unemployment causes crime.* Instead, use cautious phrases: *unemployment may cause crime* or *tends to cause crime*.
+
+-   Avoid adverbs that show your personal attitude/reaction: *luckily*, *remarkably*, *surprisingly*.
+
+-   Do not contract verb forms: *don't*, *can't*. Use the full form: *do not*, *cannot*.
+
+-   Although academic English tends to use the passive more than standard English, it should not be overused. Both are needed. Compare:
+
+    *Galileo discovered the moons of Jupiter.*
+
+    *The moons of Jupiter were discovered by Galileo.*
+
+    In the first case, the focus is on Galileo, in the second (passive) on the moons.
+
+-   Avoid the following:
+
+    -   *like* for introducing examples. Use *such as* or *for instance*.
+
+    -   *thing* and combinations *nothing* or *something*. Use *factor*, *issue* or *topic*.
+
+    -   lots of. Use a significant/considerable number.
+
+    -   *little/big*. Use *small/large*.
+
+    -   '*get*' phrases such as *get better/worse*. Use *improve* and *deteriorate*.
+
+    -   *good/bad* are simplistic. Use *positive/negative* (e.g. *the changes had several positive aspects*).
+
+-   Use foreign words in *italic*. During proof reading, check whether the characters are correctly visible. Use appropriate fonts with foreign glyphs. Also, make sure fonts are of UTF-8 standard.
+
+    -   *ad hoc*: unplanned
+
+    -   *de factor*: as it really is
+
+    -   *de jure*: according to the law
+
+    -   *inter alia:* among others
+
+    -   *in vitro*: studies conducted on isolated organs (in Biology or medical science)
+
+    -   *pro rata*: proportional
+
+    -   *à propos*: on the subject of
+
+    -   *ancien* regime: old ruling system
+
+    -   *coup d' état*: military coup
+
+    -   *fait accompli*: accomplished fact
+
+    -   *Realpolitik*: Political reality
+
+    -   *Zeitgeist*: Spirit of times
+
+    ## Abbreviations
+
+-   The first time a phrase is used, it must be written in full, but on subsequent occasions the abbreviations can be used alone.
+
+-   If a text contains large number of abbreviations, it would be prudent to include a Table of abbreviations after table of contents.
+
+-   There are certain abbreviations common to all types of academic writing. They include:
+
+    -   *anon. -* anonymous (no author)
+
+    -   asap - as soon as possible
+
+    -   *c. -* circa (in dates -- about)
+
+    -   *cf. -* compare
+
+    -   *ed.* editor/edition
+
+    -   e.g. - for example
+
+    -   *et al.* - and others (used in place of names of multiple authors)
+
+    -   *etc.* - et cetera (and so on -- do not use this in academic work)
+
+    -   Fig. - figure (for labelling charts and graphs)
+
+    -   *ibid. -* in the same place (to refer to source mentioned immediately before)
+
+    -   *i.e.* - that is
+
+    -   *K* - thousand
+
+    -   NB. - take careful note
+
+    -   *nd* - no date (i.e. an undated source)
+
+    -   *op. cit.* - in the source mentioned previously
+
+    -   *p.a.* - yearly (per annum)
+
+    -   *pp.* - pages
+
+    -   *PS* - postscript
+
+    -   *re:* - with reference to
+
+    -   *vs* - versus
+
+    ## Some other guidelines
+
+-   Use a consistent font, size and line spacing.
+
+-   Follow the *status quo*. (What is it?)
+
+-   Reserve some time to proof read
+
+-   Create a template before start writing
+
+## Presentation
+
+-   Follow the appropriate corporate design
+
+-   Two ways to make slides:
+
+    -   independent - the reader will get 100% of the content from the slides
+
+    -   supplementary - the reader must see/hear the talk based on the presentation
+
+## 

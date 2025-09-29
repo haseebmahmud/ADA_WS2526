@@ -1,0 +1,12 @@
+# Welcome note {.unnumbered}
+
+Dear students,
+
+In this part of this course, we are going to cover theoretical background for doing research work. In this part we are going to cover the following topics:
+
+1.  What is research, formulating and clarifying the research topic
+2.  Literature review
+3.  Theoretical framework and hypothesis development
+4.  Questionnaire design
+5.  Sampling design
+6.  Measurement: scaling, reliability and validity

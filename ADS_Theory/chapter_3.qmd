@@ -1,0 +1,122 @@
+# Literature review
+
+## A continuous process
+
+After setting up the research question and hypotheses, we need to see what others did in the same subject area. This process is called literature review. There are several objectives of literature review:
+
+-   To see what methodologies are appropriate for the analysis
+-   To understand the gaps in the field
+-   To know the improvement suggestions from other researchers
+
+The literature review can be started while setting up the research question and hypotheses and can continue till the end of the research project. This is because, the research process is often very long and it is important to get updated with publications during ongoing research project. Graphically, it may look like this,
+
+![The literature review process (@saunders_research_2019)](images/SCR-20221012-9w8.png){#fig-lit_revprocess}
+
+## Purpose of critical review
+
+The precise purpose of your reading of the literature will depend on the approach you are intending to use in your research.
+
+For some research projects it is necessary to use the literature to help you to identify theories and ideas that you will test using data. This is known as a *deductive approach* in which researcher develop a theoretical or conceptual framework, which is to be subsequently tested using data.
+
+For other research projects the researcher will be planning to explore the data and to develop theories which will be subsequently related to the literature. This is known as an *inductive approach* and, although researchers still has a clearly defined purpose with research question(s) and objectives, the researchers do not start with any predetermined theories or conceptual frameworks.
+
+The literature review has a number of other purposes. It can be,
+
+-   to help the researcher to refine the research question(s) and objectives further
+-   to highlight research possibilities that have been overlooked implicitly in research to date
+-   to discover explicit recommendations for further research. These can provide you with a superb justification the researchers' own research question(s) and objectives
+-   to help the researcher to avoid simply repeating work that has been done already
+-   to sample current opinions in newspapers, professional and trade journals, thereby gaining insights into the aspects of your research question(s) and objectives that are considered newsworthy;
+-   to discover and provide an insight into research approaches, strategies and techniques that may be appropriate to your own research question(s) and objectives.
+
+## Content of critical review
+
+In considering the content of the critical review, the researcher will therefore need:
+
+-   to include the key academic theories within your chosen area of research;
+-   to demonstrate that your knowledge of your chosen area is up to date;
+-   through clear referencing, enable those reading your project report to find the original publications which you cite.
+
+## Literature sources
+
+
+### Steps in Literature review
+
+[![Literature review process. Source: Riedly
+
+(2018)](Images/lit_review_process.png)](https://www.amazon.co.uk/Literature-Review-Step-step-Students/dp/1412934265)
+
+### Summarizing findings
+
+We can start collecting and summarizing the literature in excel spreadsheets.
+
+[![Example: Summarized literature. Source: Charmarbagwala (2004)](images/literature_review_list.png)](https://openknowledge.worldbank.org/handle/10986/20224)
+
+Summary findings can be organized in the spreadsheet too.
+
+[![Example: Summarized literature. Source: Charmarbagwala (2004)](images/literature_review_findings.png)](https://openknowledge.worldbank.org/handle/10986/20224)
+
+Another approach could be using [mindmap](https://www.google.com/search?q=mindmap&newwindow=1&sxsrf=AOaemvIoVQqJYRE2wdmDFQkpsamskwwelA:1632123735585&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiDofTbho3zAhVXFlkFHXsdBj4Q_AUoAXoECAEQAw&biw=1745&bih=881&dpr=1.1) like softwares.
+
+![](Images/Unbenannt.PNG)
+
+### Develop a critical approach
+
+It is very common to see students writing literature review describing only one side of the story. There are few possibilities in scientific research works on a certain phenomena.
+
+-   The phenomenon is known deterministically. There is no need for a second opinion. Example: what is the height of the Eifle Tower.
+
+-   The phenomenon is known through estimations.
+
+**Example 1**: Let's assume we want to review the research findings on the average female height in Germany. One cannot have a single answer for this because of
+
+-   different sample size
+
+-   different sampling techniques
+
+-   different measurement methods/methodology
+
+-   measurement errors
+
+-   difference in operational definitions etc.
+
+**Example 2**: Let's assume we want to know the factors behind a successful job application. We cannot have a single line answer to this question too because of,
+
+-   different sample size and sampling strategy
+
+-   different hypotheses/variables taken into consideration
+
+-   different sample characteristics
+
+-   difference in operation definitions etc.
+
+### **Beware of confirmation bias**
+
+> **Confirmation bias** is the tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior [beliefs](https://en.wikipedia.org/wiki/Belief "Belief") or values. People display this bias when they select information that supports their views, ignoring contrary information, or when they interpret ambiguous evidence as supporting their existing attitudes. The effect is strongest for desired outcomes, for [emotionally](https://en.wikipedia.org/wiki/Emotion "Emotion") charged issues, and for deeply entrenched beliefs. Confirmation bias cannot be eliminated entirely, but it can be managed, for example, by education and training in critical thinking skills. Source: Wikipedia
+
+It is not OK to cite only the side of the story that is in line with the authors findings.
+
+### **A big list of cognitive biases**
+
+Confirmation bias is a type of cognitive bias. In addition, there are plenty of biases one may fall victim of, in conscious or in unconscious mind. To go through a helpful list of biases, the reader may right click on the following image and open it into a new window.
+
+[![Cognitive biases. Source: Wikimedia. Right click and open it in a different window for better visibility.](images/Cognitive_bias_codex_en.svg)](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+
+### **Gettier problem**
+
+Knowledge is the justified true belief. It can be formulated as this,
+
+S knows that P, iff
+
+-   P is true
+
+-   S believes that P, and
+
+-   S is justified in believing that P.
+
+[Gettier](https://academic.oup.com/analysis/article-abstract/23/6/121/109949?redirectedFrom=fulltext) argued that that there are cases where individuals can have a justified, true belief regarding a claim but still fail to know it because the reasons for the belief, while justified, turn out to be false.
+
+<https://plato.stanford.edu/entries/knowledge-analysis/#GettProb>
+
+[![Error types. Source: XKCD](images/error_types.png)](https://www.explainxkcd.com/wiki/index.php/2303:_Error_Types)
+

@@ -1,0 +1,282 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Applied Data Science",
+    "section": "",
+    "text": "Course outline",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html",
+    "href": "chapter_1.html",
+    "title": "1  Measures of central Tendency",
+    "section": "",
+    "text": "1.1 Arithmetic mean\nThe arithmetic mean, or mean of a set of measurements is defined to be the sum of measurements divided by the total number of measurements.\nUsually, the population mean is denoted by \\(\\mu\\) and the sample mean is denoted by \\(\\bar{y}\\). The sample mean of a series is defined as,\n\\[\n\\bar{y}=\\frac{\\sum_iY_i}{n}\n\\]\nwhere, \\(n\\) is the number of observations.\nExample A sample of \\(n=15\\) overdue accounts in a large department store yields the following amounts due,\nThe sample mean is computed as follows,\n\\[\n\\bar{y}= \\frac{\\sum_iY_i}{n}=\\frac{55.20+18.06+ .... + 82.73}{15}=\\frac{2483.56}{15}=165.57\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#why-is-research-conducted",
+    "href": "chapter_1.html#why-is-research-conducted",
+    "title": "1  What is research",
+    "section": "1.2 Why is research conducted",
+    "text": "1.2 Why is research conducted\nResearch is conducted for a number of reasons, which in turn depend on the objectives of any particular ‘research problem’. It may be to find out something we do not already know or to enhance our understanding of phenomena that we already know something about. In the business arena, however, research tends to be undertaken in order to achieve one or more of the following objectives (Adams, Khan, and Raeside 2014):\n\nTo gain a competitive advantage\nTo test new products and services\nTo solve a management/organisational problem\nTo provide information, which may help to avoid future business problems\nTo forecast future sales\nTo better understand shifts in consumer attitudes and tastes\nTo enhance profitability\nTo reduce operational costs\nTo enable the management to priorities strategic options for the future etc.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What is research</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#approaches-to-business-and-social-research",
+    "href": "chapter_1.html#approaches-to-business-and-social-research",
+    "title": "1  What is research",
+    "section": "1.3 Approaches to business and social research",
+    "text": "1.3 Approaches to business and social research\nResearchers usually handle numerous problems and apply research methods to obtain the best guess answers to their questions. They may use a single study or a combination of two designs. The investigator has to decide about the types and combinations of research forms that best serve the goals of the study. Broadly speaking, there are two main domains of research frequently observed in the literature, which are Quantitative research and Qualitative research. It is possible to combine quantitative and qualitative together to answer a single research question. Those approaches are known as mixed method research works. The diverse practices and uses of today’s research practices are listed in the following paragraphs.\n\nQuantitative research\nQualitative research\nPure theoretical research\nApplied research\nLongitudinal studies\nTheory vs. empirical study",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What is research</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#the-research-process",
+    "href": "chapter_1.html#the-research-process",
+    "title": "1  What is research",
+    "section": "1.4 The research process",
+    "text": "1.4 The research process\n\n\n\n\n\n\nFigure 1.1: The Research process (Saunders, Lewis, and Thornhill (2019))",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What is research</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#the-hallmarks-of-scientific-research",
+    "href": "chapter_1.html#the-hallmarks-of-scientific-research",
+    "title": "1  What is research",
+    "section": "1.5 The hallmarks of scientific research",
+    "text": "1.5 The hallmarks of scientific research\nThe hallmarks or main distinguishing characteristics of scientific research may be listed as follows (Bougie and Sekaran (2020)):\n\nPurposiveness\nRigor\nTestability\nReplicability\nPrecision and confidence\nObjectivity\nGeneralizability\nParsimony\n\n\n\n\n\nAdams, John, Hafiz T. A. Khan, and R. Raeside. 2014. Research Methods for Business and Social Science Students. Second edition. Los Angeles: SAGE.\n\n\nBougie, Roger, and Uma Sekaran. 2020. Research Methods for Business: A Skill-Building Approach. Eight edition. Hoboken, NJ: Wiley.\n\n\nGhauri, Pervez N., and Kjell Grønhaug. 2002. Research Methods in Business Studies: A Practical Guide. 2nd ed. Harlow, England ; New York: Financial Times Prentice Hall.\n\n\nSaunders, M. N. K., Philip Lewis, and Adrian Thornhill. 2019. Research Methods for Business Students. Eighth Edition. New York: Pearson.\n\n\nWalliman, Nicholas. 2005. Your Research Project: A Step-by-Step Guide for the First-Time Researcher. 2nd ed. London ; Thousand Oaks, Calif: Sage Publications.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What is research</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Adams, John, Hafiz T. A. Khan, and R. Raeside. 2014. Research\nMethods for Business and Social Science Students. Second edition.\nLos Angeles: SAGE.\n\n\nBougie, Roger, and Uma Sekaran. 2020. Research Methods for Business:\nA Skill-Building Approach. Eight edition. Hoboken, NJ: Wiley.\n\n\nGhauri, Pervez N., and Kjell Grønhaug. 2002. Research Methods in\nBusiness Studies: A Practical Guide. 2nd ed. Harlow, England ; New\nYork: Financial Times Prentice Hall.\n\n\nSaunders, M. N. K., Philip Lewis, and Adrian Thornhill. 2019.\nResearch Methods for Business Students. Eighth Edition. New\nYork: Pearson.\n\n\nWalliman, Nicholas. 2005. Your Research Project: A Step-by-Step\nGuide for the First-Time Researcher. 2nd ed. London ; Thousand\nOaks, Calif: Sage Publications.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "Applied Data Science",
+    "section": "Course structure",
+    "text": "Course structure\n\n\n\n\n\n\n\nCourse name\nApplied Data Science (256151, SPO BA 6)\n\n\nSemester\n3\n\n\nDozent\nHaseeb Mahmud\nhaseeb.mahmud@ext.hs-heilbronn.de\nhaseeb.mahmud@gmail.com\n\n\nVisiting hours\nBy appointment over WebEx\n\n\nLanguage\nEnglish\n\n\nWorkload\n125 hours (60 classroom + 65 self-study)\n\n\nECTS points\n5\n\n\nPrerequisite\nStatistics and Data Skills\n\n\n\n\nShort course description\nUsing practically relevant examples the students practice how to use a statistic software to perform statistical analysis and test models.\nIn this course the students\n\npostulate a research question using their own data or a panel data set provided by the lecturer,\npostulate hypotheses to test,\nperform statistical analysis to test their models,\nlearn to use software for their data analysis during computer lab sessions,\nwrite a scientific presentation and\npresent their results in a plenary session.\n\n\n\nFormalien Prüfungsanmeldung gemäß SPO AT\n\nmuss über HIS während des vom Senat verabschiedeten und im Semesterterminplan kommunizierten Anmeldezeitraums erfolgen\neine nachträgliche Prüfungsanmeldung über das Prüfungsamt ist nicht möglich!\nFormular V zur Anmeldung LKBK/LKBR muss bei Dozent*in unterschrieben werden. Wenn die Prüfungsleistung nicht erbracht wird/ Kurs abgebrochen wird und auch wenn keine Anmeldung zur Prüfung über HIS stattfand  gilt als Fehlversuch (5,0)\n\nIntended learning outcomes (ILOs) for Programme and Course\n\n\n\n\n\n\n\nILOs for the program\nILOs for the course\n\n\n\n\nDemonstrate profound knowledge in major fields of international business\nAfter the course the students are able to formulate a research question, derive hypotheses based on literature, identify an appropriate research design, specify and operationalize constructs, analyze data according to the hypotheses, and interpret the results. They are familiar with and can apply various models and methods of data assessment. The students know about probability of error, and the difference between significance and effect size when assessing results.\n\n\nImplement conceptual knowledge and apply problem solving ability in different business contexts\nThe students learn how to test conceptual frameworks with empirical data. They will know how to decide for the appropriate statistical procedure depending on the research problem and characteristics of the data.\nThe students are capable of applying the imparted knowledge to draw the correct conclusions when it comes to making decisions in business environments based on data.\n\n\nApply digital skills to effectively resolve work-related assignments\nThe students are capable of conducting a well-founded literature research using databases and scientific search engines.\nThey learn to use statistical software (e.g, SPSS, Python, R, Stata) in a targeted and appropriate manner to analyze data for various research questions.\n\n\nWork effectively in intercultural teams and leverage diversity\nThe students will work in teams to conduct a research project. They need to discuss the approach and find a common strategy to manage the project timely and successfully. To achieve this, they must define milestones, allocate work packages, adhere to agreements, and reflect on their different working styles.\n\n\nBehave in an ethical and sustainable manner\nThe students learn about ethical conduct in scientific research, with special emphasis on plagiarism, data manipulation, and the presentation and interpretation of results.",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#theoretical-part",
+    "href": "index.html#theoretical-part",
+    "title": "Applied Data Science",
+    "section": "Theoretical part",
+    "text": "Theoretical part\n\nWhat is research, formulating and clarifying the research topic\nLiterature review\nTheoretical framework and hypothesis development\nQuestionnaire design\nSampling design\nMeasurement: scaling, reliability and validity",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#applied-part",
+    "href": "index.html#applied-part",
+    "title": "Applied Data Science",
+    "section": "Applied part",
+    "text": "Applied part\n\nBasic statistical concepts: descriptive statistics (numerical and graphical)\nData management\nHypothesis testing\nCategorical data analysis, comparing two means\nCorrelation and covariance\nANOVA\nReliability analysis\nLinear analysis\nLogistic regression",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#software-tools",
+    "href": "index.html#software-tools",
+    "title": "Applied Data Science",
+    "section": "Software tools",
+    "text": "Software tools\n\nJamovi\nVS Code\nReference manager\nUseful file formats: Markdown, CSV\nR/RStudio",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#literature",
+    "href": "index.html#literature",
+    "title": "Applied Data Science",
+    "section": "Literature",
+    "text": "Literature\nStatistical tests with Jamovi - University of Lincoln\nLearning Statistics with Jamovi . Danielle J Navarro and David R Foxcroft - alternative link.\nStatistics with Jamovi - Dana Wanzer\nJamovi Worksheets: Stats with Jamovi\nAtteslander, P: Methoden der empirischen Sozialforschung, Walter de Gruyter, Berlin, aktuelle Auflage.\nAuer, B. & Rottmann, H.: Statistik und Ökonometrie für Wirtschaftswissenschaftler. Springer, Leipzig, aktuelle Auflage.\nBackhaus, K., Erichson, B., Gensler, S., Weiber, R & Weiber, T.: Multivariate Analysemethoden – Eine anwendungsorientierte Einführung. Springer, Berlin, aktuelle Auflage.\nField, A.: Discovering Statistics Using IBM SPSS Statistics. London: SAGE Publications, aktuelle Auflage.\nLewis-Beck, M. S.: Applied Regression – an Introduction, SAGE Publications, Thousand Oaks CA, aktuelle Auflage.\nSchnell, R., Hill, P. & Esser, E.: Methoden der empirischen Sozialforschung, Oldenbourg Verlag, München, aktuelle Auflage.\n\nRecommended literature\nGujarati, D., N.: Basic Econometrics. McGraw-Hill, aktuelle Auflage.\nOkasha, S.: Philosophy of Science: Very short introduction. Oxford: Oxford University Press, aktuelle Auflage.\nPampel, F. C.: Logistic Regression. Sage University Papers Series on Quantitative Applications in the Social Sciences, 07-132. Thousand Oaks, CA: SAGE Publications, aktuelle Auflage.\nPorst, R.: Fragebogen – Ein Arbeitsbuch, Springer, Wiesbaden, aktuelle Auflage.\nQuinlan, C., Babin, B., Carr, J., Griffin, M., Zikmund, W.: Business Research Methods, Cengage Learning EMEA, aktuelle Auflage.\nWooldridge, J. M.: Introductory Econometrics, Ohio: Thomson, South-Western, aktuelle Auflage.",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#hardware-requirement",
+    "href": "index.html#hardware-requirement",
+    "title": "Applied Data Science",
+    "section": "Hardware requirement",
+    "text": "Hardware requirement\nIt is expected that students will work in Windows, Mac or Linux laptops in the classroom. Tablets (e.g. IPad) won’t work.",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#software-requirement",
+    "href": "index.html#software-requirement",
+    "title": "Applied Data Science",
+    "section": "Software requirement",
+    "text": "Software requirement\n\nJamovi\n\nDownload and Installation\n\n\n\nVS Code\n\nDownload and Installation\n\n\n\nR and RStudio (optional)\n\nR\nRStudio Desktop\n\n\n\nReference manager\n\nZotero\nMendeley",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#datasets",
+    "href": "index.html#datasets",
+    "title": "Applied Data Science",
+    "section": "Datasets",
+    "text": "Datasets\nDatasets of the course will be stored in the Datasets folder in the ILIAS. It is highly recommended to download and save the datasets to a local folder.\n\nFor classroom demonstrations\n\nCar pricing dataset\nElectricity cost dataset\nMedical insurance dataset\nWallmart sales dataset\nSalary dataset\nStudy performance dataset\nDatasets from reference books\nAnd many other\n\n\n\nPopular datasets for social science research\n\nESS\nWVS",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#teaching-method",
+    "href": "index.html#teaching-method",
+    "title": "Applied Data Science",
+    "section": "Teaching method",
+    "text": "Teaching method\nLectures, demonstrations and practice during the class\nApplying statistical methods in real scenario\nGroup work, going through a research project from start to finish\nLearning tools to apply statistical concepts in real life data",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#exam-form-and-evaluation",
+    "href": "index.html#exam-form-and-evaluation",
+    "title": "Applied Data Science",
+    "section": "Exam form and evaluation",
+    "text": "Exam form and evaluation\nThe final grade will be a combination of the result from a research project and a classroom examination.\n\nResearch project (50% of the final grade): Theoretical and empirical model including theory, research question/hypotheses, detailed derivation of hypotheses from the literature, methodology, descriptive results, model variables and regression analysis, scientific discussion, literature (minimum requirement: seven scientific references (journal articles), APA citation style), plus submission of dataset and syntax (final evaluations and model) + output regression analysis. Format: Presentation on the last lecture date with PowerPoint presentation and paper (max. 8 pages without appendix)\nIndividual test (50% of the final grade): Date and time will be announced later",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "Applied Data Science",
+    "section": "Grading",
+    "text": "Grading\n\nMidterm (individual performance): 50%\n90-minute open book exam\n(FAQ: Do I have to pass it to get the pass mark for the course?\nAnswer: No.\nPaper + Group presentation (group evaluation): 50%\nStudents have to pass it!",
+    "crumbs": [
+      "Course outline"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#arithmetic-mean",
+    "href": "chapter_1.html#arithmetic-mean",
+    "title": "1  Measures of central Tendency",
+    "section": "",
+    "text": "55.2\n4.88\n271.95\n\n\n18.06\n180.29\n365.29\n\n\n28.16\n399.11\n807.8\n\n\n44.14\n97.47\n9.98\n\n\n61.61\n56.89\n82.73\n\n\n\n\n\n\n1.1.1 Some comments about the arithmetic mean\n\nIt is the most common central tendency measure\nThere exist only one mean of a dataset/series\nThe value of the mean is influenced by the extreme values. Trimming or deleting extreme observations helps to reduce/omit that influence\nMeans of samples from a single population can be combined to get the population mean.\nIt is applicable to quantitative data only.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#median",
+    "href": "chapter_1.html#median",
+    "title": "1  Measures of central Tendency",
+    "section": "1.2 Median",
+    "text": "1.2 Median\nThe median of a set of measurements is defined to be the middle value when the measurements are arranged from lowest to highest. So, first we need to sort the dataset from lowest to highest.\n\\[\ny_1 \\leq y_2 \\leq y_3 \\leq .... \\leq y_i \\leq .. \\leq y_n\n\\]\nThen, the median of a series will be,\n\n\\(\\frac{N+1}{2}\\)-th observation if \\(n\\) is odd.\nAverage of \\(\\left(\\frac{N}{2}\\right)\\) and \\(\\left(\\frac{N}{2}+1\\right)\\)-th observation if \\(n\\) is even.\n\n\n1.2.1 Median: some comments\n\nIt is the central value, 50 percent of the observations lie above it and the rest fall below it.\nThere is only one median in a dataset\nIt is not affected by extreme observations\nMedians of subsamples cannot be combined to get the median of the population.\nIt is applicable to quantitative data only\nFor group data, its value is rather stable even when the data are organized into different categories.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#mode",
+    "href": "chapter_1.html#mode",
+    "title": "1  Measures of central Tendency",
+    "section": "1.3 Mode",
+    "text": "1.3 Mode\nA mode of a set of measurements is defined to be the measurement that occurs most often, i.e. the highest frequency.\n\n1.3.1 Mode: some comments\nThere can be more than one mode in a dataseries. Modes of the subsamples cann’t be used to determine to formulate the mode of the population It is applicable for both qualitative and quantitative data For grouped data, its value can change depending on the categories used.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#relationship-mean-median-mode",
+    "href": "chapter_1.html#relationship-mean-median-mode",
+    "title": "1  Measures of central Tendency",
+    "section": "1.4 Relationship: mean, Median, Mode",
+    "text": "1.4 Relationship: mean, Median, Mode\n\nWhen a variable is normally distributed, the mean, median, and mode are the same number.\nWhen the variable is skewed to the left (i.e., negatively skewed), the mean shifts to the left the most, the median shifts to the left the second most, and the mode the least affected by the presence of skew in the data.\nWhen the variable is skewed to the right (i.e., positively skewed), the mean is shifted to the right the most, the median is shifted to the right the second most, and the mode the least affected.\n\n\n\n\nRelationship among different central tendency measures",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#range",
+    "href": "chapter_1.html#range",
+    "title": "1  Measures of central Tendency",
+    "section": "2.1 Range",
+    "text": "2.1 Range\nThe range of a set of measurements is defined to be the difference between the largest and the smallest measurements of the set.\nFrom the above dataset we are working on, the smallest values is 4.88 and the largest is 807.80. The range of the data would be,\n\\[\nrange = 807.80 - 4.88 = 802.92\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#variance-and-standard-deviation",
+    "href": "chapter_1.html#variance-and-standard-deviation",
+    "title": "1  Measures of central Tendency",
+    "section": "2.2 Variance and standard deviation",
+    "text": "2.2 Variance and standard deviation\nThe variance of a set of measurements \\(y_1, y_2, y_3, .... , y_n\\), with a mean of \\(\\bar{y}_n\\) is the sum of the squared deviations divided by \\(n-1\\). Symbolically,\n\\[\ns^2 = \\frac{\\sum_{i=1}^n(x_i-\\bar{x})^2}{n-1}\n\\]\nWe are assuming, we are working with samples. In case of variance we will replace \\(n-1\\) with \\(n\\) in the denominator. Sample variance is denoted by \\(s^2\\) and the population variance is denoted by \\(\\sigma^2\\).\nSample variance is an unbiased estimator of the population variance. That means, if we take different sub-samples from the population, then the average variance of those samples are (roughly) equal to the population variance.\nThe standard deviation is a set of measurements is defined to be the positive square root of the variance. \\[\ns = \\sqrt{\\frac{\\sum_{i=1}^n(x_i-\\bar{x})^2}{n-1}}\n\\]\nAs mentioned before, sample standard deviation will be denoted by \\(s\\) and the population standard deviation is denoted by \\(\\sigma\\). In real life, this difference is often ignored.\n\n2.2.1 Variance and standard deviation: Example\n\nCalories in different Starbucks drinks\n\n\n\n\n\n\nProduct\nCalories\n\n\n\n\nDunkin’s Donuts Iced Mocha Swirl latte (whole milk)\n240\n\n\nStarbucks coffee frappuccino blended coffee\n260\n\n\nDunkin Donuts coffee coolatta\n350\n\n\nStarbucks Iced Coffee Mocha Espresso (whole Milk and whipped cream\n350\n\n\nStarbucks Mocha Flappuccino blended coffee (whipped cream)\n420\n\n\nStarbucks Chocolate Brownie Flappuccino blended coffee (whipped cream)\n510\n\n\nStarbucks Chocolate Flappuccino blended creme (whipped cream\n530\n\n\n\nTo calculate standard deviation and variance first we need to calculate the mean, then the squared differences\n\\[\n\\bar{x} = \\frac{\\sum_{i=1}^nX_i}{n} = \\frac{2660}{7} = 380\n\\]\n\n\n\nCalories\n\\((x_i - \\bar{x})\\)\n\\((x_i - \\bar{x})^2\\)\n\n\n\n\n240\n-140\n19600\n\n\n260\n-120\n14400\n\n\n350\n-30\n900\n\n\n350\n-30\n900\n\n\n420\n40\n1600\n\n\n510\n130\n16900\n\n\n530\n150\n22500\n\n\n\n\n76800\n\n\n\nPutting all into the formula, we can get the variance.\n\\[\ns^2 = \\frac{\\sum_{i=1}^n(x_i-\\bar{x})^2}{n-1} = \\frac{76800}{6} =  12800\n\\]\nAnd, the standard deviation is,\n\\[\ns = \\sqrt{s^2} = \\sqrt{12800} = 113.1371\n\\]\n\n\n2.2.2 Characteristics of deviation measures\n\nThe greater the spread or dispersion of the data, the larger the range, \\(\\sigma^2\\) and \\(\\sigma\\).\nThe greater the concentration of the data around the central value, the smaller the range, \\(\\sigma^2\\) and \\(\\sigma\\).\nIf the values are all the same (so that there are no variation in the data), the range, \\(\\sigma^2\\) and \\(\\sigma\\) will all equal to zero.\nNone of the measures of variation can ever be negative.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#the-coefficient-of-variation",
+    "href": "chapter_1.html#the-coefficient-of-variation",
+    "title": "1  Measures of central Tendency",
+    "section": "2.3 The coefficient of variation",
+    "text": "2.3 The coefficient of variation\nUnlike the range, \\(\\sigma\\) and \\(\\sigma^2\\), the coefficient of variation is a relative measure expressed as a percentage rather than units of a particular data. The coefficient of variation is equal to the standard deviation by the mean, multiplied by \\(100\\%\\).\n\\[\nCV = \\left(\\frac{\\sigma}{\\bar{x}}\\right)\\times 100\\%\n\\]\nThe coefficient of variation is particularly useful to compare the variability of two different datasets measured in two different units of measurements.\nFrom the previous Starbucks data, the coefficient of variation can be calculated as,\n\\[\nCV = \\left(\\frac{s}{\\bar{x}}\\right)\\times 100\\% = \\frac{113.1371}{380} \\times 100\\% = 28.79\\%\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#confidence-interval-large-sample",
+    "href": "chapter_1.html#confidence-interval-large-sample",
+    "title": "1  Measures of central Tendency",
+    "section": "3.1 Confidence interval: large sample",
+    "text": "3.1 Confidence interval: large sample\nCI for a \\(\\mu\\): Normal \\(z\\)-statistic\nLet \\(x_1, x_2, ... , x_n\\) be a random sample of \\(n\\) observations from a normally distributed population with unknown mean \\(\\mu\\) and known \\(\\sigma^2\\). Suppose that, we want a \\(100(1-\\alpha)\\%\\) CI of the population mean. Previously, we saw that,\n\\[\nz = \\frac{\\bar{x}-\\mu}{\\sigma/\\sqrt{n}}\n\\]\nhas a \\(N(0,1)\\) distribution and \\(z_{\\alpha/2}\\) is the value from the \\(N(0,1)\\) such that the upper tail probability is \\(\\alpha/2\\). We use the basis algebra to find,\n\\[\n1 - \\alpha =  \\mathbb{P} (-z_{\\alpha/2} &lt; z &lt; z_{\\alpha/2}) = \\mathbb{P} \\left(-z_{\\alpha/2} &lt; \\frac{\\bar{x}-\\mu}{\\sigma/\\sqrt{n}} &lt; z_{\\alpha/2}\\right)\n\\]\nwhich in turn,\n\\[\n\\mathbb{P} \\left(-z_{\\alpha/2} \\frac{\\sigma}{\\sqrt{n}} &lt; \\bar{x} - \\mu &lt; z_{\\alpha/2}\\frac{\\sigma}{\\sqrt{n}}\\right)\n= \\mathbb{P} \\left(\\bar{x}-z_{\\alpha/2} \\frac{\\sigma}{\\sqrt{n}} &lt; \\mu &lt; \\bar{x}+z_{\\alpha/2}\\frac{\\sigma}{\\sqrt{n}}\\right)\n\\]",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#central-limit-theorem",
+    "href": "chapter_1.html#central-limit-theorem",
+    "title": "1  Measures of central Tendency",
+    "section": "3.2 Central limit theorem",
+    "text": "3.2 Central limit theorem\nAccording to the Central Limit Theorem the sampling distribution of the sample mean is approximately normal for large samples. For a \\(95\\%\\) confidence level it follows that,\n\\[\n\\mathbb{P} \\left(\\bar{x}-1.96 \\frac{\\sigma}{\\sqrt{n}} &lt; \\mu &lt; \\bar{x}+1.96\\frac{\\sigma}{\\sqrt{n}}\\right)\n\\]\nThe interval \\(\\bar{x} \\pm 1.96\\sigma_{\\bar{x}}\\) is called the large sample \\(95\\%\\) confidence interval for the population mean \\(\\mu\\). The term large sample refers to the sample being of sufficiently large size that we can apply the Central Limit Theory and the normal \\(z\\) statistic to determine the form of the sampling distribution of \\(\\bar{x}\\). Empirical research suggests that a sample size \\(n\\) exceeding a value between 20 and 30 will usually yield a sampling distribution of \\(\\bar{x}\\), that is normal.\nIf the sample means (e.g. \\(\\bar{x}_1, \\bar{x}_3\\) and \\(\\bar{x}_4\\)) falls between the two lines on either side of \\(\\mu\\), then the interval \\(\\bar{x} \\pm 1.96\\sigma_{\\bar{x}}\\) will contain \\(\\mu\\); if \\(\\bar{x}\\) falls outside the boundaries (e.g. \\(\\bar{x}_2\\)), the interval \\(\\bar{x} \\pm 1.96\\sigma_{\\bar{x}}\\) will not contain \\(\\mu\\).\\ From the Empirical rule, we know that, the area under the normal curve (the sampling distribution of \\(\\bar{x}\\) between these boundaries is exactly 0.95. Thus the probability that a randomly selected interval \\(\\bar{x} \\pm 1.96\\sigma_{\\bar{x}}\\), will contain \\(\\mu\\) is equal to \\(0.95\\) or \\(95\\%\\).\\ Large sample interval estimator requires knowing the value of the population \\(\\sigma\\). In most practical applications, the value of population \\(\\sigma\\) is unknown. For large samples, in the absence of \\(\\sigma\\), sample standard deviation \\(s\\) provides a good approximation to \\(\\sigma\\).",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  },
+  {
+    "objectID": "chapter_1.html#percentiles",
+    "href": "chapter_1.html#percentiles",
+    "title": "1  Measures of central Tendency",
+    "section": "4.1 Percentiles",
+    "text": "4.1 Percentiles\nThe \\(p\\)-th percentile of a set of \\(n\\)-measurements arranged in order of magnitude is that value that has at most \\(p\\%\\) of the measurements below it and at most \\((100-p)\\%\\) above it.\nPercentiles are frequently used to describe the results of achievements test scores and the ranking of a person in comparison to the rest of the people taking the examination. Specific percentile of interest are the 25th, 50th and 75th percentiles; often called the lower quantile, the middle quantile (median) and the upper quantile respectively. Similarly, if we divide the data by 10 parts then we refer every part as deciles.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Measures of central Tendency</span>"
+    ]
+  }
+]

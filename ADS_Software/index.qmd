@@ -1,0 +1,210 @@
+# Course outline {.unnumbered}
+
+## Course structure
+
++-----------------+------------------------------------------+
+| Course name     | Applied Data Science (256151, SPO BA 6)  |
++-----------------+------------------------------------------+
+| Semester        | 3                                        |
++-----------------+------------------------------------------+
+| Dozent          | Haseeb Mahmud\                           |
+|                 | haseeb.mahmud\@ext.hs-heilbronn.de\      |
+|                 | haseeb.mahmud\@gmail.com                 |
++-----------------+------------------------------------------+
+| Visiting hours  | By appointment over WebEx                |
++-----------------+------------------------------------------+
+| Language        | English                                  |
++-----------------+------------------------------------------+
+| Workload        | 125 hours (60 classroom + 65 self-study) |
++-----------------+------------------------------------------+
+| ECTS points     | 5                                        |
++-----------------+------------------------------------------+
+| Prerequisite    | Statistics and Data Skills               |
++-----------------+------------------------------------------+
+
+### Short course description
+
+Using practically relevant examples the students practice how to use a statistic software to perform statistical analysis and test models.
+
+In this course the students
+
+1.  postulate a research question using their own data or a panel data set provided by the lecturer,
+
+2.  postulate hypotheses to test,
+
+3.  perform statistical analysis to test their models,
+
+4.  learn to use software for their data analysis during computer lab sessions,
+
+5.  write a scientific presentation and
+
+6.  present their results in a plenary session.
+
+### Formalien Prüfungsanmeldung gemäß SPO AT
+
+-   muss über HIS während des vom Senat verabschiedeten und im Semesterterminplan kommunizierten Anmeldezeitraums erfolgen
+
+-   eine nachträgliche Prüfungsanmeldung über das Prüfungsamt ist nicht möglich!
+
+-   Formular V zur Anmeldung LKBK/LKBR muss bei Dozent\*in unterschrieben werden. Wenn die Prüfungsleistung nicht erbracht wird/ Kurs abgebrochen wird und auch wenn keine Anmeldung zur Prüfung über HIS stattfand  gilt als Fehlversuch (5,0)
+
+Intended learning outcomes (ILOs) for Programme and Course
+
++-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ILOs for the program                                                                            | ILOs for the course                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
++=================================================================================================+========================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+
+| Demonstrate profound knowledge in major fields of international business                        | After the course the students are able to formulate a research question, derive hypotheses based on literature, identify an appropriate research design, specify and operationalize constructs, analyze data according to the hypotheses, and interpret the results. They are familiar with and can apply various models and methods of data assessment. The students know about probability of error, and the difference between significance and effect size when assessing results. |
++-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Implement conceptual knowledge and apply problem solving ability in different business contexts | The students learn how to test conceptual frameworks with empirical data. They will know how to decide for the appropriate statistical procedure depending on the research problem and characteristics of the data.                                                                                                                                                                                                                                                                    |
+|                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                 | The students are capable of applying the imparted knowledge to draw the correct conclusions when it comes to making decisions in business environments based on data.                                                                                                                                                                                                                                                                                                                  |
++-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Apply digital skills to effectively resolve work-related assignments                            | The students are capable of conducting a well-founded literature research using databases and scientific search engines.                                                                                                                                                                                                                                                                                                                                                               |
+|                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                                                                 | They learn to use statistical software (e.g, SPSS, Python, R, Stata) in a targeted and appropriate manner to analyze data for various research questions.                                                                                                                                                                                                                                                                                                                              |
++-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Work effectively in intercultural teams and leverage diversity                                  | The students will work in teams to conduct a research project. They need to discuss the approach and find a common strategy to manage the project timely and successfully. To achieve this, they must define milestones, allocate work packages, adhere to agreements, and reflect on their different working styles.                                                                                                                                                                  |
++-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Behave in an ethical and sustainable manner                                                     | The students learn about ethical conduct in scientific research, with special emphasis on plagiarism, data manipulation, and the presentation and interpretation of results.                                                                                                                                                                                                                                                                                                           |
++-------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+# Course outline
+
+## Theoretical part
+
+1.  What is research, formulating and clarifying the research topic
+2.  Literature review
+3.  Theoretical framework and hypothesis development
+4.  Questionnaire design
+5.  Sampling design
+6.  Measurement: scaling, reliability and validity
+
+## Applied part
+
+1.  Basic statistical concepts: descriptive statistics (numerical and graphical)
+2.  Data management
+3.  Hypothesis testing
+4.  Categorical data analysis, comparing two means
+5.  Correlation and covariance
+6.  ANOVA
+7.  Reliability analysis
+8.  Linear analysis
+9.  Logistic regression
+
+## Software tools
+
+1.  Jamovi
+2.  VS Code
+3.  Reference manager
+4.  Useful file formats: Markdown, CSV
+5.  R/RStudio
+
+## Literature
+
+[Statistical tests with Jamovi - University of Lincoln](https://guides.library.lincoln.ac.uk/mash/jamovi)
+
+[Learning Statistics with Jamovi . Danielle J Navarro and David R Foxcroft](https://blog.jamovi.org/2018/10/25/learning-statistics-with-jamovi.html) - [alternative link](https://davidfoxcroft.github.io/lsj-book/).
+
+[Statistics with Jamovi - Dana Wanzer](https://danawanzer.github.io/stats-with-jamovi/)
+
+[Jamovi Worksheets: Stats with Jamovi](https://jmablog.github.io/jamovi-worksheets/)
+
+Atteslander, P: Methoden der empirischen Sozialforschung, Walter de Gruyter, Berlin, aktuelle Auflage.
+
+Auer, B. & Rottmann, H.: Statistik und Ökonometrie für Wirtschaftswissenschaftler. Springer, Leipzig, aktuelle Auflage.
+
+Backhaus, K., Erichson, B., Gensler, S., Weiber, R & Weiber, T.: Multivariate Analysemethoden – Eine anwendungsorientierte Einführung. Springer, Berlin, aktuelle Auflage.
+
+Field, A.: Discovering Statistics Using IBM SPSS Statistics. London: SAGE Publications, aktuelle Auflage.
+
+Lewis-Beck, M. S.: Applied Regression – an Introduction, SAGE Publications, Thousand Oaks CA, aktuelle Auflage.
+
+Schnell, R., Hill, P. & Esser, E.: Methoden der empirischen Sozialforschung, Oldenbourg Verlag, München, aktuelle Auflage.
+
+### Recommended literature
+
+Gujarati, D., N.: Basic Econometrics. McGraw-Hill, aktuelle Auflage.
+
+Okasha, S.: Philosophy of Science: Very short introduction. Oxford: Oxford University Press, aktuelle Auflage.
+
+Pampel, F. C.: Logistic Regression. Sage University Papers Series on Quantitative Applications in the Social Sciences, 07-132. Thousand Oaks, CA: SAGE Publications, aktuelle Auflage.
+
+Porst, R.: Fragebogen – Ein Arbeitsbuch, Springer, Wiesbaden, aktuelle Auflage.
+
+Quinlan, C., Babin, B., Carr, J., Griffin, M., Zikmund, W.: Business Research Methods, Cengage Learning EMEA, aktuelle Auflage.
+
+Wooldridge, J. M.: Introductory Econometrics, Ohio: Thomson, South-Western, aktuelle Auflage.
+
+## Hardware requirement
+
+It is expected that students will work in Windows, Mac or Linux laptops in the classroom. Tablets (e.g. IPad) won't work.
+
+## Software requirement
+
+### Jamovi
+
+-   [Download and Installation](https://docs.jamovi.org/_pages/um_1_installation.html)
+
+### VS Code
+
+-   [Download and Installation](https://code.visualstudio.com/docs/setup/setup-overview)
+
+### R and RStudio (optional)
+
+-   [R](https://www.r-project.org/)
+
+-   [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
+
+### Reference manager
+
+-   [Zotero](https://www.zotero.org)
+
+-   [Mendeley](https://www.mendeley.com/)
+
+## Datasets
+
+Datasets of the course will be stored in the Datasets folder in the ILIAS. It is highly recommended to download and save the datasets to a local folder.
+
+### For classroom demonstrations
+
+1.  [Car pricing dataset](https://www.kaggle.com/datasets/amjadzhour/car-price-prediction)
+2.  [Electricity cost dataset](https://www.kaggle.com/datasets/shalmamuji/electricity-cost-prediction-dataset)
+3.  [Medical insurance dataset](https://www.kaggle.com/datasets/kanzariachref/medical-insurance-cost-dataset)
+4.  [Wallmart sales dataset](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
+5.  [Salary dataset](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression)
+6.  [Study performance dataset](https://www.kaggle.com/datasets/nikhil7280/student-performance-multiple-linear-regression)
+7.  Datasets from reference books
+8.  And many other
+
+### Popular datasets for social science research
+
+1.  [ESS](https://www.europeansocialsurvey.org/)
+2.  [WVS](https://www.worldvaluessurvey.org)
+
+## Teaching method
+
+Lectures, demonstrations and practice during the class
+
+Applying statistical methods in real scenario
+
+Group work, going through a research project from start to finish
+
+Learning tools to apply statistical concepts in real life data
+
+## Exam form and evaluation
+
+The final grade will be a combination of the result from a research project and a classroom examination.
+
+-   **Research project (50% of the final grade):** Theoretical and empirical model including theory, research question/hypotheses, detailed derivation of hypotheses from the literature, methodology, descriptive results, model variables and regression analysis, scientific discussion, literature (minimum requirement: seven scientific references (journal articles), APA citation style), plus submission of dataset and syntax (final evaluations and model) + output regression analysis. Format: Presentation on the last lecture date with PowerPoint presentation and paper (max. 8 pages without appendix)
+
+-   **Individual test (50% of the final grade):** Date and time will be announced later
+
+## Grading
+
+-   Midterm (individual performance): 50%\
+    90-minute open book exam\
+    (FAQ: Do I have to pass it to get the pass mark for the course?\
+    Answer: No.
+
+-   Paper + Group presentation (group evaluation): 50%\
+    Students have to pass it!
