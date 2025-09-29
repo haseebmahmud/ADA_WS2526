@@ -1,5 +1,446 @@
 {
-    "sources": [],
+    "sources": [
+        {
+            "URL": "http://books.google.de/books?id=r5oYx6NPJJ4C&pg=PA56&lpg=PA56&dq=postcolonial+research+methodology&source=bl&ots=uGvzTC7FgP&sig=dChL3W-3T2pWta6lTOKxLldYdjI&hl=en&sa=X&ei=I6BSUpPyJsWG4gS6xoDwBw&ved=0CEwQ6AEwAw#v=twopage&q&f=false",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2013,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Westwood",
+                    "given": "Robert"
+                }
+            ],
+            "editor": [
+                {
+                    "family": "Marschan.Piekkari",
+                    "given": "Rebecca"
+                },
+                {
+                    "family": "Welch",
+                    "given": "Catherine"
+                }
+            ],
+            "id": "westwood_handbook_2004",
+            "issued": {
+                "date-parts": [
+                    [
+                        2004
+                    ]
+                ]
+            },
+            "note": "00000",
+            "publisher": "Edward Elgar Publishing Limited",
+            "title": "Handbook of Qualitative Research Methods for International Business",
+            "type": "book"
+        },
+        {
+            "URL": "http://www.ics.uci.edu/~lirani/poco/Iranidourish-iwic2009.pdf",
+            "abstract": "Understanding intercultural collaboration is a thorny problem in CSCW and organizational studies that grows every more important as globalization generates increasing intercultural interactions between individuals, groups, and technologies. We suggest that Postcolonial Studies may offer richer frameworks for analysis than taxonomic models of culture such as Hofstede’s dimensions of difference. A postcolonial perspective sees culture as dynamic and always changing, stressing the importance of colonial histories, uneven economic relations, and local knowledge systems in framing and designing information technologies.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2013,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Lilly",
+                    "given": "Irani"
+                },
+                {
+                    "family": "Dourish",
+                    "given": "Paul"
+                }
+            ],
+            "id": "lilly_postcolonial_nodate",
+            "note": "00000",
+            "title": "Postcolonial Interculturality",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Quayson",
+                    "given": "Ato"
+                }
+            ],
+            "id": "quayson_postcolonialism:_nodate",
+            "note": "00000",
+            "publisher": "Blackwell Publishers",
+            "title": "Postcolonialism: Theory, Practice or Process?",
+            "title-short": "Postcolonialism",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Spivak",
+                    "given": "Gayatri Chakravorty"
+                }
+            ],
+            "container-title": "Marxism and the Interpretation of Culture",
+            "editor": [
+                {
+                    "family": "Nelson",
+                    "given": "C"
+                },
+                {
+                    "family": "Grossberg",
+                    "given": "L"
+                }
+            ],
+            "id": "spivak_can_1988",
+            "issued": {
+                "date-parts": [
+                    [
+                        1988
+                    ]
+                ]
+            },
+            "note": "00000",
+            "page": "271-313",
+            "publisher": "McMillan",
+            "publisher-place": "UK",
+            "title": "Can the Subaltern Spreak?",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Smith",
+                    "given": "Linda Tuhiwai"
+                }
+            ],
+            "edition": "2nd",
+            "id": "smith_decolonizing_2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "note": "00000",
+            "publisher": "Zed Books Ltd",
+            "title": "Decolonizing Methodologies: Research and Indigenous Peoples",
+            "title-short": "Decolonizing Methodologies",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Gandhi",
+                    "given": "Leela"
+                }
+            ],
+            "id": "gandhi_postcolonial_1998",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998
+                    ]
+                ]
+            },
+            "note": "00000",
+            "publisher": "Edinburgh University Press",
+            "title": "Postcolonial Theory: A Critical Introduction",
+            "title-short": "Postcolonial Theory",
+            "type": "book"
+        },
+        {
+            "URL": "http://www.oa.uottawa.ca/journals/aporia/articles/2011_01/racine.pdf",
+            "abstract": "Drawing on participant observation and interview excerpts collected during a critical ethnography, this article discusses the dilemmas of applying postcolonial feminist assumptions in fieldwork. Applying postcolonial feminist methodological assumptions from a location of racial privilege is not without its problems. Data illustrate the researcher’s (un)easiness in facing evidence of personal adherence to Eurocentric power and privilege despite having a desire to be an instrument of social change. This retrospective critical reflection of fieldwork indicates that novice postcolonial feminist researchers need to embrace the destabilizing but inescapable journey of cultural alterity to avoid “finalizing,” as Arthur Frank puts it, marginalized identities into new forms of colonialist representations. This article reminds qualitative health and nursing researchers that race, gender, and class create multiple tensions and contradictions making the field inherently gendered, political, personal, and public.",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2013,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Racine",
+                    "given": "Louise"
+                }
+            ],
+            "container-title": "APRIA: The Nursing Journal",
+            "id": "racine_impact_nodate",
+            "issue": "1",
+            "note": "00000",
+            "page": "15-27",
+            "title": "The Impact of Race, Gender, and Class in Postcolonial Feminist Fieldwork: A Retrospective Critique of Methodological Dilemmas",
+            "title-short": "The Impact of Race, Gender, and Class in Postcolonial Feminist Fieldwork",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "ISBN": "978-1-4129-0131-4 978-1-4129-0132-1",
+            "author": [
+                {
+                    "family": "Walliman",
+                    "given": "Nicholas"
+                }
+            ],
+            "edition": "2nd ed",
+            "id": "walliman_your_2005",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "keyword": "Handbooks, manuals, etc, Report writing, Research",
+            "publisher": "Sage Publications",
+            "publisher-place": "London ; Thousand Oaks, Calif",
+            "title": "Your research project: A step-by-step guide for the first-time researcher",
+            "title-short": "Your research project",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-1-292-20878-7",
+            "annote": "Revised edition of the authors’ Research methods for business students, 2015",
+            "author": [
+                {
+                    "family": "Saunders",
+                    "given": "M. N. K."
+                },
+                {
+                    "family": "Lewis",
+                    "given": "Philip"
+                },
+                {
+                    "family": "Thornhill",
+                    "given": "Adrian"
+                }
+            ],
+            "edition": "Eighth Edition",
+            "id": "saunders_research_2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "keyword": "Research, Business, Research Data processing",
+            "publisher": "Pearson",
+            "publisher-place": "New York",
+            "title": "Research methods for business students",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-0-7619-3589-6",
+            "abstract": "\"Research Methods for Graduate Business and Social Science Students is a fundamental and easy guide to studying research methods. In addition to general concepts relating to research methods, broad research issues and theoretical concepts critical to research are discussed. The book is written in a lucid style and contains examples and helpful practical exercises at the end of each chapter to reinforce and enjoy learning. Divided Into 16 chapters, the authors aim to clearly and concisely explain the basics of quantitative and qualitative analysis and research to students.\"–Jacket",
+            "annote": "Sect. I. General introduction – Ch. 1. Introduction to research – Sect. II. Research methodology – Ch. 2. Research methodology – Sect. III. Formulation – Ch. 3. The research cycle – Ch. 4. Literature Review and critical reading – Sect. IV. Research design – Ch. 5. Sampling – Sect. V. Data collection – Ch. 6. Primary data collection – Ch. 7. Secondary data collection – Ch. 8. Surveys – Ch. 9. Interviews – Sect. VI. Analysis – Ch. 10. Qualitative data analysis – Ch. 11. Descriptive quantitative analysis – Ch. 12. Correlation and regression – Ch. 13. Advanced statistical analysis – Sect. VII. Quality and verification – Ch. 14. Tests of measurement and quality – Sect. VIII. Involvement during research – Ch. 15. Conducting your research – Ch. 16. Writing and presenting the dissertation",
+            "editor": [
+                {
+                    "family": "Adams",
+                    "given": "John"
+                }
+            ],
+            "id": "adams_research_2007",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "keyword": "Research, Methodology, Social sciences",
+            "note": "OCLC: ocn163707622",
+            "publisher": "SAGE Publications",
+            "publisher-place": "New Delhi ; Response Books ; Thousand Oaks, Calif",
+            "title": "Research methods for graduate business and social science students",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-81-321-1366-9",
+            "annote": "Revised edition of: Research methods for graduate business and social science students / John Adams ... [et al.], published in 2007",
+            "author": [
+                {
+                    "family": "Adams",
+                    "given": "John"
+                },
+                {
+                    "family": "Khan",
+                    "given": "Hafiz T. A."
+                },
+                {
+                    "family": "Raeside",
+                    "given": "R."
+                }
+            ],
+            "edition": "Second edition",
+            "id": "adams_research_2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "keyword": "Research, Methodology, Social sciences",
+            "publisher": "SAGE",
+            "publisher-place": "Los Angeles",
+            "title": "Research methods for business and social science students",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-0-273-65110-9",
+            "author": [
+                {
+                    "family": "Ghauri",
+                    "given": "Pervez N."
+                },
+                {
+                    "family": "Grønhaug",
+                    "given": "Kjell"
+                }
+            ],
+            "edition": "2nd ed",
+            "id": "ghauri_research_2002",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "keyword": "Research, Business, Management",
+            "publisher": "Financial Times Prentice Hall",
+            "publisher-place": "Harlow, England ; New York",
+            "title": "Research methods in business studies: A practical guide",
+            "title-short": "Research methods in business studies",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-1-118-74523-6",
+            "annote": "Revised edition of Real world research, 2011",
+            "author": [
+                {
+                    "family": "Robson",
+                    "given": "Colin"
+                },
+                {
+                    "family": "McCartan",
+                    "given": "Kieran"
+                }
+            ],
+            "edition": "Fourth Edition",
+            "id": "robson_real_2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "keyword": "Social sciences, Psychology, Research Methodology",
+            "publisher": "Wiley",
+            "publisher-place": "Hoboken",
+            "title": "Real world research: A resource for users of social research methods in applied settings",
+            "title-short": "Real world research",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-1-119-66370-6",
+            "author": [
+                {
+                    "family": "Bougie",
+                    "given": "Roger"
+                },
+                {
+                    "family": "Sekaran",
+                    "given": "Uma"
+                }
+            ],
+            "edition": "Eight edition",
+            "id": "bougie_research_2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "publisher": "Wiley",
+            "publisher-place": "Hoboken, NJ",
+            "title": "Research methods for business: A skill-building approach",
+            "title-short": "Research methods for business",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-1-4462-0861-8 978-1-4462-0862-5",
+            "abstract": "Essential for anyone undertaking a dissertation or thesis, this title presents clear and straightforward information and advice on the process and functions of methodology",
+            "annote": "pt. I. Research is methodology. What is research? ; What is methodology? – pt. II. The pervasive nature of methodology. Looking : seeing beyond the known ; Listening : issues of voice ; Reading : purpose and positionality ; Questioning : the focus of research – pt. III. Making research public. Research design : shaping the study ; Reporting research : telling the story ; Research action : next steps",
+            "author": [
+                {
+                    "family": "Clough",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Nutbrown",
+                    "given": "Cathy"
+                }
+            ],
+            "edition": "3rd ed",
+            "id": "clough_students_2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "keyword": "Education, Handbooks, manuals, etc, Research Methodology",
+            "publisher": "SAGE",
+            "publisher-place": "London",
+            "title": "A student’s guide to methodology: Justifying enquiry",
+            "title-short": "A student’s guide to methodology",
+            "type": "book"
+        },
+        {
+            "ISBN": "978-0-415-22012-5 978-0-415-22013-2",
+            "annote": "Machine generated contents note: The contributors xi – Acknowledgements xv – Introduction – The new scholarship 1 A book of evolutions 5 – New theories of discourse 8 – The second cognitive revolution 12 – Management learning 16 – Accountingfor my own learning 19 – Why am I writing this book, and why areyou reading it? 22 – Prologue: contextualising the study 25 –PART I – What is the nature of organisational knowledge? 33 – 1 Learning organisations and the responsibility of managers 37 – I What is the nature of organisational knowledge? 38 – 2 How is organisational knowledge acquired? 44 3 How is organisational knowledge put to use? 51 – 4 What are the implicationsfor the development of learning organisations? 55 – Learning about learning 60 – JIMMY RYAN – 2 Learning organisations as good societies 67 – 1 What is the nature of a learning organisation? 68 – 2 How are learning organisations created? 76 – 3 How are learning organisations put to use? 83 – 4 What are the implicationsfor organisation theory as aform of educational theory? 85 – Journeyman 89 – StAMUS LILLIS – 3 Action research, power and control 95 – 1 What is the nature of power? 102 – 2 How is power acquired? 104 – 3 How ispowerput to use? 109 – 4 What are the implicationsfor organisation theory as a discourse of power? 113 – Collaboration for co-liberation: a story of intentional intervention 115 – PIP BRUCE FERGUSON – PART II – How is organisational knowledge acquired? 125 – 4 Doing research 127 – 1 What is the nature of research knowledge? 128 – 2 How is research knowledge acquired? 133 – 3 How is research knowledge put to use? 137 – 4 What are the implicationsfor social living? 139 – 5 Empirical research 142 – 1 What is the nature of empirical research knowledge? 144 – 2 How is empirical research knowledge acquired? 147 3 How is empirical research knowledge put to use? 149 – 4 What are the implicationsfor organisation theory as a theory of social renewal? 151 – Rehabilitating sexual offenders in religious communities 154 – PAUL MURPHY – 6 Interpretive research 160 – 1 What is the nature of interpretive research knowledge? 162 – 2 How is interpretive research knowledge acquired? 164 – 3 How is interpretive research knowledge put to use? 168 – 4 What are the potential implicationsfor organisation theory as aform of reflective practice? 170 – Understanding my work as a group leader in employment counselling 173 – BREDA LONG – 7 Critical theoretic research 177 – 1 What is the nature of critical research knowledge? 178 – 2 How is critical research knowledge acquired? 181 – 3 How is critical research knowledgeput to use? 184 – 4 What are the implicationsfor organisation theory as a critical social science? 188 – Courage to risk, courage to be free 192 – EILEEN ROSS – 8 Action research 197 – 1 What is the nature of action research knowledge? 202 – 2 How is action research undertaken? 204 – 3 How is action research put to use? 210 – 4 What are the implicationsfor organisation theory as a process of social renewal? 216 – PART III – How is organisational knowledge put to use? 219 – 9 Action research in organisations 221 – 1 What is the nature of action research in organisations? 227 – 2 How is action research supported in organisations? 229 3 How is action research put to use in organisations? 236 – 4 What are the implicationsfor new theories of organisation as theories of conversational communities? 238 – 10 New theories of organisation ’242 – I What is the nature of new theories of organisation? 243 – 2 How are new theories of organisation generated? 245 – 3 How are new theories of organisation put to use? 251 – 4 What are the potential implicationsfor organisation theory as a theory of research-basedprofessionalism? 254 – PART IV – What are the implications of living theories of organisation for social living? 257 – 11 What should be the focus of management education? 259 – Action research and the production of working knowledge 259 – JOHN GARRICK – Dialogue, learning and management education 261 – CARL RHODES – Enquiry in action in business education? 264 – JOHN H. M. ELLIS AND JULIA A. KIELY – What should be thefocus of management education? 269 – LIAM NAGLE – What should be thefocus of management education? 272 – CHRIS JAMES – 12 My epistemology of practice of the superintendency 274 – JACQUELINE DELONG – 13 How one school is fulfilling the vision of Peter Senge’s ’learning organisation’ 285 – CARMEL LILLIS – Epilogue: reconciliations 297 – References 302 – Index 323",
+            "author": [
+                {
+                    "family": "McNiff",
+                    "given": "Jean"
+                },
+                {
+                    "family": "Whitehead",
+                    "given": "Jack"
+                }
+            ],
+            "collection-title": "Routledge studies in human resource development",
+            "id": "mcniff_action_2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "keyword": "Action research, Organizational learning",
+            "publisher": "Routledge",
+            "publisher-place": "London ; New York",
+            "title": "Action research in organisations",
+            "type": "book"
+        }
+    ],
     "project_biblios": [
         "references.bib"
     ]

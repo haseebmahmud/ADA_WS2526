@@ -2,25 +2,25 @@
 
 ## Course structure
 
-+-----------------+------------------------------------------+
-| Course name     | Applied Data Science (256151, SPO BA 6)  |
-+-----------------+------------------------------------------+
-| Semester        | 3                                        |
-+-----------------+------------------------------------------+
-| Dozent          | Haseeb Mahmud\                           |
-|                 | haseeb.mahmud\@ext.hs-heilbronn.de\      |
-|                 | haseeb.mahmud\@gmail.com                 |
-+-----------------+------------------------------------------+
-| Visiting hours  | By appointment over WebEx                |
-+-----------------+------------------------------------------+
-| Language        | English                                  |
-+-----------------+------------------------------------------+
-| Workload        | 125 hours (60 classroom + 65 self-study) |
-+-----------------+------------------------------------------+
-| ECTS points     | 5                                        |
-+-----------------+------------------------------------------+
-| Prerequisite    | Statistics and Data Skills               |
-+-----------------+------------------------------------------+
++----------------+------------------------------------------+
+| Course name    | Applied Data Science (256151, SPO BA 6)  |
++----------------+------------------------------------------+
+| Semester       | 3                                        |
++----------------+------------------------------------------+
+| Dozent         | Haseeb Mahmud\                           |
+|                | haseeb.mahmud\@ext.hs-heilbronn.de\      |
+|                | haseeb.mahmud\@gmail.com                 |
++----------------+------------------------------------------+
+| Visiting hours | By appointment over WebEx                |
++----------------+------------------------------------------+
+| Language       | English                                  |
++----------------+------------------------------------------+
+| Workload       | 125 hours (60 classroom + 65 self-study) |
++----------------+------------------------------------------+
+| ECTS points    | 5                                        |
++----------------+------------------------------------------+
+| Prerequisite   | Statistics and Data Skills               |
++----------------+------------------------------------------+
 
 ### Short course description
 
@@ -88,7 +88,7 @@ Intended learning outcomes (ILOs) for Programme and Course
 5.  Correlation and covariance
 6.  ANOVA
 7.  Reliability analysis
-8.  Linear analysis
+8.  Linear regression analysis
 9.  Logistic regression
 
 ## Software tools

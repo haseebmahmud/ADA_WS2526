@@ -94,7 +94,7 @@
     "href": "index.html#applied-part",
     "title": "Applied Data Science",
     "section": "Applied part",
-    "text": "Applied part\n\nBasic statistical concepts: descriptive statistics (numerical and graphical)\nData management\nHypothesis testing\nCategorical data analysis, comparing two means\nCorrelation and covariance\nANOVA\nReliability analysis\nLinear analysis\nLogistic regression",
+    "text": "Applied part\n\nBasic statistical concepts: descriptive statistics (numerical and graphical)\nData management\nHypothesis testing\nCategorical data analysis, comparing two means\nCorrelation and covariance\nANOVA\nReliability analysis\nLinear regression analysis\nLogistic regression",
     "crumbs": [
       "Course outline"
     ]
