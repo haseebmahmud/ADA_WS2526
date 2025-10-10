@@ -4,9 +4,16 @@
 
 [Cheate sheet](https://www.markdownguide.org/cheat-sheet/)
 
-* Create a CSV dataset
+## Create a CSV dataset
 
-I want to list something 
+See `demo.csv`. 
 
-- element 1
-- element 2
+## Open csv file 
+
+- Change variable type: https://www.youtube.com/watch?v=pquU5lsKXcA
+- Code missing value(s): https://www.youtube.com/watch?v=QV9OtK2XEdg
+
+## Descriptive statistics
+
+https://www.youtube.com/watch?v=1ISwWsc_7E8
+
