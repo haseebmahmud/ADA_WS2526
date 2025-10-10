@@ -2,6 +2,8 @@
 
 ## Data management
 
+0. How to clean a data collected from the web. Example: autokostencheck.de
+
 1. Open large datasets (ESS and WVS): How to handle it: read codebooks
 
 2. Compute variable
@@ -18,9 +20,8 @@ https://www.youtube.com/watch?v=gl8HPmb6SWA
 
 5. Selecting variables
 
-6. Cross tables
+6. Cross tables: absolute vs. relative 
 
-5. 
 
 
 
