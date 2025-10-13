@@ -14,6 +14,7 @@ https://www.youtube.com/watch?v=_CqfI3eFqD4
 
 https://www.youtube.com/watch?v=pij0KlFhITw
 https://www.youtube.com/watch?v=gl8HPmb6SWA
+https://www.youtube.com/watch?v=KyWFuADOr04
 
 4. Saving ongoing works
 (Introducing the concept: maintainer)
@@ -21,6 +22,18 @@ https://www.youtube.com/watch?v=gl8HPmb6SWA
 5. Selecting variables
 
 6. Cross tables: absolute vs. relative 
+
+7. Recode
+https://blog.jamovi.org/2018/10/23/transforming-variables.html
+https://www.youtube.com/watch?v=lBY_lykRxhU
+
+8. Wide vs long data format
+
+9. Aggregate
+
+9. Merge
+
+
 
 
 
