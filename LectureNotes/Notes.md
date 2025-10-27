@@ -60,7 +60,16 @@ https://www.youtube.com/watch?v=lBY_lykRxhU
 Book data: https://drive.google.com/drive/folders/1loDMI3lwIysVgXDdnhcJV0wjR1jvwAzH
 https://www.youtube.com/watch?v=vsrj647Tb3g
 
+# Class 5
 
+## Tasks
+- Filter the cntry == "DE"
+- Find the variable you want explore and configure the missing values
+- Find the variables that are hypothesized to explain the variable in interest and configure the missing values
+- Recode variables if necessary
+    - Gender (if being female has to do something with other variables)
+    - Age (compute or recode to have the contingency table understandable)
+- Plot something nice
 
 Future
 
