@@ -80,4 +80,36 @@ Future
 9. Merge
 
 
+# Models
+- Dependent variable data is continuous: Linear regression analysis
+- Dependent variable data is discrete and binary: Binomial logistic regression
+- Dependent variable data is discrete and nominal: Multinomial logistic regression
+- Dependent variable data is discrete and ordinal: ordinal logistic regression
+
+# Regression analysis
+
+https://www.youtube.com/watch?v=_5AVGuEzCXc
+
+SPSS example: https://stats.oarc.ucla.edu/spss/output/regression-analysis/
+
+# Binary logistic regression
+
+https://www.youtube.com/watch?v=s7GL0z-3ymA
+
+SPSS example: https://stats.oarc.ucla.edu/spss/output/logistic-regression/
+
+# Multinomial logistic regression
+
+https://www.youtube.com/watch?v=nuyEUEBf-GQ
+
+# Ordinal logistic regression
+
+https://www.youtube.com/watch?v=QnG8Tq80Qwc
+
+
+
+# Important dates
+Incourse exam: December 15 (requirement: laptop)
+Extra class: January 9 
+Presentation: January 12
 
