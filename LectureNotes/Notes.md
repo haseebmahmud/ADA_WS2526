@@ -106,7 +106,10 @@ https://www.youtube.com/watch?v=nuyEUEBf-GQ
 
 https://www.youtube.com/watch?v=QnG8Tq80Qwc
 
+
 Use **hsb2** data
+
+Source (SPSS example): https://stats.oarc.ucla.edu/stata/output/ordered-logistic-regression/
 
 **Log Likelihood** – This is the log likelihood of the fitted model. It is used in the Likelihood Ratio Chi-Square test of whether all predictors’ regression coefficients in the model are simultaneously zero and in tests of nested models.
 
