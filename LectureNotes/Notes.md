@@ -106,6 +106,23 @@ https://www.youtube.com/watch?v=nuyEUEBf-GQ
 
 https://www.youtube.com/watch?v=QnG8Tq80Qwc
 
+Use **hsb2** data
+
+**Log Likelihood** – This is the log likelihood of the fitted model. It is used in the Likelihood Ratio Chi-Square test of whether all predictors’ regression coefficients in the model are simultaneously zero and in tests of nested models.
+
+**Chi-square** -  This is the *Likelihood Ratio (LR) Chi-Square test* that at least one of the predictors’ regression coefficient is not equal to zero in the model. The number in the parenthesis indicates the degrees of freedom of the Chi-Square distribution used to test the LR Chi-Square statistic and is defined by the number of predictors in the model. The LR Chi-Square statistic can be calculated by  $-2*( L(null model) – L(fitted model)) = -2*((-210.583) – (-194.802)) = 31.560$, where L(null model) is from the log likelihood with just the response variable in the model (Iteration 0) and L(fitted model) is the log likelihood from the final iteration (assuming the model converged) with all the parameters.
+
+**Prob > chi2** – This is the probability of getting a LR test statistic as extreme as, or more so, than the observed under the null hypothesis; the null hypothesis is that all of the regression coefficients in the model are equal to zero. In other words, this is the probability of obtaining this chi-square statistic (31.56) if there is in fact no effect of the predictor variables. This p-value is compared to a specified alpha level, our willingness to accept a type I error, which is typically set at 0.05 or 0.01. The small p-value from the LR test,  <0.00001, would lead us to conclude that at least one of the regression coefficients in the model is not equal to zero. The parameter of the Chi-Square distribution used to test the null hypothesis is defined by the degrees of freedom in the prior line, chi2.
+
+**Pseudo R2 McF** – This is McFadden’s pseudo R-squared. Logistic regression does not have an equivalent to the R-squared that is found in OLS regression; however, many people have tried to come up with one.  There are a wide variety of pseudo R-squared statistics which can give contradictory conclusions.  Because this statistic does not mean what R-squared means in OLS regression (the proportion of variance for the response variable explained by the predictors), we suggest interpreting this statistic with great caution.
+
+These are the ordered log-odds (logit) regression coefficients. Standard interpretation of the ordered logit coefficient is that for a one unit increase in the predictor, the response variable level is expected to change by its respective regression coefficient in the ordered log-odds scale while the other variables in the model are held constant. 
+
+**science** – This is the ordered log-odds estimate for a one unit increase in science score on the expected ses level given the other variables are held constant in the model. If a subject were to increase his science score by one point, his ordered log-odds of being in a higher ses category would increase by 0.03 while the other variables in the model are held constant.
+
+**socst** – This is the ordered log-odds estimate for a one unit increase in socst score on the expected ses level given the other variables are held constant in the model. A one unit increase in socst test scores would result in a 0.0532 unit increase in the ordered log-odds of being in a higher ses category while the other variables in the model are held constant.
+
+**female** – This is the ordered log-odds estimate of comparing females to males on expected ses given the other variables are held constant in the model. The ordered logit for females being in a higher ses category is 0.4824 less than males when the other variables in the model are held constant.
 
 
 # Important dates
