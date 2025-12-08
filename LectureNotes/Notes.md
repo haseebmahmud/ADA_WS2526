@@ -133,7 +133,7 @@ These are the ordered log-odds (logit) regression coefficients. Standard interpr
  * Car price prediction data
  * Descriptive statistics: Fuel price, group it against Fuel type. Graphically and numerically. 
  * Test the hypothesis that the average fuel price is no different than 30000
- * Build a cross table with mileage and fuel type with rowwise/columnwise percentage.
+ * Build a cross table with transmission and fuel type with rowwise/columnwise percentage.
  * Build a correlation table using all the variables and report the correlations that are NOT significant at 5% level. 
  * Run this model: fuel price = f (how old the car is, engine size, mileage, fuel type, transmission). Interpret the output. 
 
