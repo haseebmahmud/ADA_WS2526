@@ -128,7 +128,7 @@ These are the ordered log-odds (logit) regression coefficients. Standard interpr
 **female** – This is the ordered log-odds estimate of comparing females to males on expected ses given the other variables are held constant in the model. The ordered logit for females being in a higher ses category is 0.4824 less than males when the other variables in the model are held constant.
 
 
-* Exam preparation
+# Exam preparation
 
 - Car price prediction data
  * Descriptive statistics: Fuel price, group it against Fuel type. Graphically and numerically. 
