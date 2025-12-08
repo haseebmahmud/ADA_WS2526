@@ -130,11 +130,11 @@ These are the ordered log-odds (logit) regression coefficients. Standard interpr
 
 # Exam preparation
 
-- Car price prediction data
+ * Car price prediction data
  * Descriptive statistics: Fuel price, group it against Fuel type. Graphically and numerically. 
  * Test the hypothesis that the average fuel price is no different than 30000
  * Build a cross table with mileage and fuel type with rowwise/columnwise percentage.
-
+ * Build a correlation table using all the variables and report the correlations that are NOT significant at 5% level. 
 
 
 # Important dates
